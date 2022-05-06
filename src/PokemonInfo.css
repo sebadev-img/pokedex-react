@@ -1,0 +1,85 @@
+.card-container {
+  margin-top: 130px;
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+img {
+  width: 350px;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+}
+
+h3 {
+  margin-left: 12px;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #919191;
+}
+
+h1 {
+  margin-left: 16px;
+  margin-top: 4px;
+  font-size: 24;
+  color: #313131;
+  text-transform: capitalize;
+}
+
+.types-container {
+  display: flex;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  padding-left: 12px;
+}
+
+p {
+  background-color: lightgray;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-left: 4px;
+  font-size: 11px;
+  text-transform: capitalize;
+}
+
+.grass {
+  background-color: #9bcc50;
+}
+
+.poison {
+  background-color: #b97fc9;
+}
+
+.fire {
+  background-color: #fd7d24;
+}
+
+.water {
+  background-color: #4592c4;
+}
+
+.flying {
+  background-color: #3dc7ef;
+}
+
+.bug {
+  background-color: #729f3f;
+}
+
+.normal {
+  background-color: #a4acaf;
+}
+
+.electric {
+  background-color: #eed535;
+}
+
+.ground {
+  background-color: #ab9842;
+}
+
+.fairy {
+  background-color: #fdb9e9;
+}
